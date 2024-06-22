@@ -1,2 +1,7 @@
-# document
-Dokumen rahasia untuk anggota Asterix Technology.
+# Asterix Technology
+
+## Visi
+
+## Misi
+
+## Sejarah
